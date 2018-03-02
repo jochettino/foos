@@ -8,3 +8,5 @@ league
 *.so
 *~
 /video/player/player
+.idea
+env
